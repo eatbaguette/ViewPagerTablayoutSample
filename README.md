@@ -7,4 +7,9 @@ ViewPager と TabLayoutをシンプルに実装
 
 Navigation Drawerを使わない実装はこのリポジトリの方がシンプルで分かりやすい。
 
+# 実装方法
+GradleにDesign Support Library を記述
+activity_main.xmlを記述
+
+
 
